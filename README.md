@@ -1,4 +1,4 @@
-# challenge-ci-cd-github
+# ci-cd-github
 
 ## Overview
 
