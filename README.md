@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the **challenge-ci-cd-github** repository! This project demonstrates the implementation of Continuous Integration (CI) and Continuous Deployment (CD) workflows using GitHub Actions. It is designed to automate the testing and deployment processes for Python applications, ensuring efficient and reliable software delivery.
+Welcome to the **ci-cd-github** repository! This project demonstrates the implementation of Continuous Integration (CI) and Continuous Deployment (CD) workflows using GitHub Actions. It is designed to automate the testing and deployment processes for Python applications, ensuring efficient and reliable software delivery.
 
 ## 🚀 Features
 
